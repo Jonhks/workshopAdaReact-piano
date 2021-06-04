@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/workshopAdaReact-piano/static/css/main.8ff71206.chunk.css",
+    "main.js": "/workshopAdaReact-piano/static/js/main.d9b6be41.chunk.js",
+    "main.js.map": "/workshopAdaReact-piano/static/js/main.d9b6be41.chunk.js.map",
+    "runtime-main.js": "/workshopAdaReact-piano/static/js/runtime-main.311a38d5.js",
+    "runtime-main.js.map": "/workshopAdaReact-piano/static/js/runtime-main.311a38d5.js.map",
+    "static/js/2.5cb91c06.chunk.js": "/workshopAdaReact-piano/static/js/2.5cb91c06.chunk.js",
+    "static/js/2.5cb91c06.chunk.js.map": "/workshopAdaReact-piano/static/js/2.5cb91c06.chunk.js.map",
+    "static/js/3.39e1cc84.chunk.js": "/workshopAdaReact-piano/static/js/3.39e1cc84.chunk.js",
+    "static/js/3.39e1cc84.chunk.js.map": "/workshopAdaReact-piano/static/js/3.39e1cc84.chunk.js.map",
+    "index.html": "/workshopAdaReact-piano/index.html",
+    "static/css/main.8ff71206.chunk.css.map": "/workshopAdaReact-piano/static/css/main.8ff71206.chunk.css.map",
+    "static/js/2.5cb91c06.chunk.js.LICENSE.txt": "/workshopAdaReact-piano/static/js/2.5cb91c06.chunk.js.LICENSE.txt",
+    "static/media/do.wav": "/workshopAdaReact-piano/static/media/do.a2508143.wav",
+    "static/media/fa.wav": "/workshopAdaReact-piano/static/media/fa.fdf4ed24.wav",
+    "static/media/la.wav": "/workshopAdaReact-piano/static/media/la.5351f634.wav",
+    "static/media/mi.wav": "/workshopAdaReact-piano/static/media/mi.51e5702c.wav",
+    "static/media/re.wav": "/workshopAdaReact-piano/static/media/re.419c7811.wav",
+    "static/media/si.wav": "/workshopAdaReact-piano/static/media/si.42883966.wav",
+    "static/media/sol.wav": "/workshopAdaReact-piano/static/media/sol.e5e79dda.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.311a38d5.js",
+    "static/js/2.5cb91c06.chunk.js",
+    "static/css/main.8ff71206.chunk.css",
+    "static/js/main.d9b6be41.chunk.js"
+  ]
+}
